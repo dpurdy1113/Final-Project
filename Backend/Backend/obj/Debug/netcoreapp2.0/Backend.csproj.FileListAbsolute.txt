@@ -1,0 +1,11 @@
+C:\Users\rock_\Desktop\FinalProject\Backend\Backend\bin\Debug\netcoreapp2.0\Backend.deps.json
+C:\Users\rock_\Desktop\FinalProject\Backend\Backend\bin\Debug\netcoreapp2.0\Backend.runtimeconfig.json
+C:\Users\rock_\Desktop\FinalProject\Backend\Backend\bin\Debug\netcoreapp2.0\Backend.runtimeconfig.dev.json
+C:\Users\rock_\Desktop\FinalProject\Backend\Backend\bin\Debug\netcoreapp2.0\Backend.dll
+C:\Users\rock_\Desktop\FinalProject\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.csprojAssemblyReference.cache
+C:\Users\rock_\Desktop\FinalProject\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.csproj.CoreCompileInputs.cache
+C:\Users\rock_\Desktop\FinalProject\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.AssemblyInfoInputs.cache
+C:\Users\rock_\Desktop\FinalProject\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.AssemblyInfo.cs
+C:\Users\rock_\Desktop\FinalProject\Backend\Backend\bin\Debug\netcoreapp2.0\Backend.pdb
+C:\Users\rock_\Desktop\FinalProject\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.dll
+C:\Users\rock_\Desktop\FinalProject\Backend\Backend\obj\Debug\netcoreapp2.0\Backend.pdb
