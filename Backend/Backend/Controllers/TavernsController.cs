@@ -10,7 +10,7 @@ using Backend.Models;
 namespace Backend.Controllers
 {
     [Produces("application/json")]
-    [Route("api/Taverns")]
+    [Route("api/taverns")]
     public class TavernsController : Controller
     {
         private readonly TavernContext _context;
